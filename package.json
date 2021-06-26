@@ -1,0 +1,22 @@
+{
+  "name": "newsappbackend",
+  "version": "1.0.0",
+  "description": "News API backend server",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanChawla01/newsappbackend/issues"
+  },
+  "homepage": "https://github.com/RohanChawla01/newsappbackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "newsapi": "^2.4.1"
+  }
+}

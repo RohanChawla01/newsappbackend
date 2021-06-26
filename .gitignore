@@ -1,0 +1,2 @@
+node_modules
+# .env.*  # skipping this to add api key into gitub
